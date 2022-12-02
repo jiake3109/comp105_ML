@@ -1,0 +1,17 @@
+README
+CS 105 - Assignment Name continuation
+
+Name: Jialin Zhang (jzhang34)
+Patner name: Hance Zhang (hzhang22)
+
+Parts of the assignment completed: all
+
+Improvement analysis of improved mluscheme evaluater:
+When running the old mlscheme interpreter, it took 5.03 seconds;
+after implementing adjusted rho environment that contains only free variables,
+now the improved version can run in 1.4 seconds, this is about 3.5 seconds
+of improvement. In addition, the runtime of unoptimized C interpreter code is
+24.9 seconds.
+
+Any comments or feedback for course staff: nope, all goodie~
+Shout out to TA Alina
